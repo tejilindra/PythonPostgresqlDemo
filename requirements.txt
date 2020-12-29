@@ -1,0 +1,5 @@
+oauth2
+psycopg2
+Flask==1.1.2
+requests
+configparser==5.0.0
